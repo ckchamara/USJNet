@@ -7,5 +7,9 @@
 
 #### Follow the video to set up your Windows PC.
 
-https://user-images.githubusercontent.com/36303565/186352307-8b9efb77-dcba-4dbe-844e-03068c4800cc.mp4
+
+
+https://user-images.githubusercontent.com/36303565/186353117-c87ad3d8-0000-43a7-9cee-38d0214fcdcb.mp4
+
+
 
