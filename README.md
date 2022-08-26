@@ -1,11 +1,16 @@
-### USJNet Configuration for Windows
+# USJNet Configuration for Laptops
+
+#### 1st Step
+Visit this link https://usjnet.sjp.ac.lk
+
+#### 2nd Step
+Sign up and login.
+
+#### 3rd Step
+Follow the below Video.
 
 
-- First, you need to set up the USJNet Sphere account to log in to the USJNet Wifi. to set it up visit this link, https://usjnet.sjp.ac.lk
-- in any case, you already registered and do not remember the username or password please click the **Forgot my password** option.
-
-
-#### Follow the video to set up your Windows PC.
+#### Follow the video to set up your Windows Laptop.
 
 
 
