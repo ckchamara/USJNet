@@ -4,7 +4,7 @@
 Visit this link https://usjnet.sjp.ac.lk
 
 #### 2nd Step
-Please Sign up and **Remember** the *USJNet ID* and *Password*. For more information, Follow this [guide](https://usjnet.sjp.ac.lk/assets/usjnet_doc/2021.01.06%20-%20UserGuide%20to%20access%20USJNet%20Sphere%20%28ver%202.0%29.pdf).
+Please Sign up and **Remember** the *USJNet ID* and *Password* (This will be your Wifi Password). For more information, Follow this [guide](https://usjnet.sjp.ac.lk/assets/usjnet_doc/2021.01.06%20-%20UserGuide%20to%20access%20USJNet%20Sphere%20%28ver%202.0%29.pdf).
 
 #### 3rd Step
 Follow the below Video.
