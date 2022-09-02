@@ -4,7 +4,7 @@
 Visit this link https://usjnet.sjp.ac.lk
 
 #### 2nd Step
-Sign up and** PLEASE REMEMBER** the* USJNet ID* and *Password.*
+Sign up and PLEASE REMEMBER the *USJNet ID* and *Password.*
 
 #### 3rd Step
 Follow the below Video.
